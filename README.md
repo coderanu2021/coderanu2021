@@ -75,27 +75,6 @@ Over the years, I've worked on a variety of projects, including **E-Commerce Pla
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=coderanu2021&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=coderanu2021&theme=github-dark&hide_border=true" />
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderanu2021&layout=compact&theme=github_dark&hide_border=true" />
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
