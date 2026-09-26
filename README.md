@@ -21,7 +21,7 @@ Over the years, I've worked on a variety of projects, including **E-Commerce Pla
 * 💼 **Profession:** Full Stack PHP Laravel Developer
 * 🌍 **Location:** India
 * 💻 **Experience:** 5+ Years
-* 🚀 **Specialization:** PHP, Laravel, Python & REST API Development
+* 🚀 **Specialization:** PHP, Laravel, Java, Spring Boot, Python & REST API Development
 * 📱 **Mobile Development:** Flutter
 * 🗄️ **Database:** MySQL
 * ⚙️ **Tools:** Git, GitHub, Docker, Composer, Linux & VS Code
